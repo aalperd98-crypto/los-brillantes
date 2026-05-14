@@ -7,7 +7,7 @@
 
 **Site:** [www.losbrillantes.com](https://www.losbrillantes.com)
 
-##Proje Hakkında
+## Proje Hakkında
 Bu proje, bağımsız sanatçılar ile prodüktörler arasındaki ticaret döngüsünü otomatize etmek amacıyla geliştirilmiştir. Yüksek performanslı bir ses önizleme motoru ve SEO odaklı bir mimari üzerine kurulmuştur.
 
 ### Öne Çıkan Özellikler:
