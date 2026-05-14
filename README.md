@@ -5,7 +5,7 @@
 
 **Los Brillantes**, müzik prodüktörlerinin dijital varlıklarını (beat/enstrümantal) sergileyebileceği ve satışını gerçekleştirebileceği profesyonel bir pazar yeri platformudur.
 
-**Canlı Demo:** [www.losbrillantes.com](https://www.losbrillantes.com)
+**Site:** [www.losbrillantes.com](https://www.losbrillantes.com)
 
 ##Proje Hakkında
 Bu proje, bağımsız sanatçılar ile prodüktörler arasındaki ticaret döngüsünü otomatize etmek amacıyla geliştirilmiştir. Yüksek performanslı bir ses önizleme motoru ve SEO odaklı bir mimari üzerine kurulmuştur.
